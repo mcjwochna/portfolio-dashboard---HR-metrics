@@ -7,9 +7,13 @@ This particular dataset included many interesting, from a statistical and analyt
 For the given dashboard however the statistics regarding attiration seemed both interesting to analyze and fun to vizualize.
 
 
+
 Before working with the actual data visuals and measures however, dataset itself required a few steps made in Power Query (in this instanced adding additional conditional columns)
 ![powerquery1a](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/ad98096e-56af-4d57-bb04-da8151f2a203)
+Conditional column #1
 
 ![powerquery2a](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/b0624f5b-b559-4a95-9b7a-c5c2a62484d0)
+Conditional column #2
+
 
 I hope this dashboard looks interesting and fun to look at ;)
