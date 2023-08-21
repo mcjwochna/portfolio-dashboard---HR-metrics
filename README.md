@@ -19,4 +19,4 @@ Here is another look at the dashboard, with department slicer used, to indicate 
 ![dashboard2](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/c2290411-894c-4852-8aec-8482f551b95e)
 
 
-I hope this dashboard looks interesting and fun to look at ;)
+I hope this dashboard is helpful and insightful in the same manner as it is fun to look at ;)
