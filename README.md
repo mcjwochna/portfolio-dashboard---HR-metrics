@@ -16,4 +16,8 @@ Conditional column #1
 Conditional column #2
 
 
+Here is another look at the dashboard, with department slicer used, to indicate changes in the data:
+![dashboard2](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/2e2a89a9-1178-4538-9ae5-332569341a0a)
+
+
 I hope this dashboard looks interesting and fun to look at ;)
