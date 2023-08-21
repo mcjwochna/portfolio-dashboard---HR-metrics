@@ -1,7 +1,7 @@
 **Portfolio - HR - Attrition statistics**
 
 Here you can see an example of a dashboard I've created. Feel free to download the .pbix file and test it for yourself.
-![dashboard](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/66f0dbfe-fd12-409f-84e2-011337416f8b)
+![dashboard](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/72366da2-d3dd-489c-8f83-80b0daae316e)
 
 This particular dataset included many interesting, from a statistical and analytical point of view, metrics like monthly income or number of companies worked for or even martial status or relationship satisfaction.
 For the given dashboard however the statistics regarding attrition seemed both interesting to analyze and fun to vizualize.
@@ -16,7 +16,7 @@ Conditional column #2
 
 
 Here is another look at the dashboard, with department slicer used, to indicate changes in the data:
-![dashboard2](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/2e2a89a9-1178-4538-9ae5-332569341a0a)
+![dashboard2](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/c2290411-894c-4852-8aec-8482f551b95e)
 
 
 I hope this dashboard looks interesting and fun to look at ;)
