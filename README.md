@@ -7,7 +7,7 @@ This particular dataset included many interesting, from a statistical and analyt
 For the given dashboard however the statistics regarding attrition seemed both interesting to analyze and fun to vizualize.
 
 
-Before working with the actual data visuals and measures however, dataset itself required a few steps made in Power Query (in this instanced adding additional conditional columns)
+However,before working with the actual data visuals and measures, dataset itself required a few steps made in Power Query (in this instance: adding additional conditional columns)
 ![powerquery1a](https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/ad98096e-56af-4d57-bb04-da8151f2a203)
 Conditional column #1
 
