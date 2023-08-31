@@ -7,7 +7,8 @@ https://github.com/mcjwochna/portfolio-dashboard---HR-metrics/assets/142684191/7
 
 <h2>Introduction</h2>
 
-> This analysis is based on the data, gathered by HR Department... 
+> The dataset used for this project is a single-table, flat model, consisting of 1470 rows, divided in more than 40 columns (categories). The rows represent various employees. All the informations gathered by HR department where spread over 41 columns mentioned earlier, that represent many, intresting and helpful variables, from a analytical point of view.
+For this dashboard the attrition data were the focal point, but it’s worth  mentioning that other, intresting data can be found here. Relationship status, relathionship satisfaction, distance from work place or monthly income – just to menton few.
 
 
 <h2>Data Cleaning and Transformation</h2><br>
